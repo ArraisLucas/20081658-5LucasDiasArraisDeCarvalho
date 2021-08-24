@@ -12,10 +12,10 @@
 </div>
 
 <div class="card" style="width: 15rem;">
-  <img class="card-img-top" src="./imagens/geleia.jpg" alt="Card image cap">
+  <img class="card-img-top" src="./imagens/geleia2.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Geleias</h5>
-    <p class="card-text">Nadinha de sabores artificiais, receitas exclusivas, feitas com ingredientes frescos e naturais...</p>
+    <p class="card-text">Nadinha de sabores artificiais, receitas exclusivas,  ingredientes frescos e naturais...</p>
     <a href="./index.php?p=geleia"  class="btn btn-primary">Saiba mais</a>
   </div>
 </div>
