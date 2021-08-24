@@ -61,9 +61,8 @@
   justify-content: space-evenly;
   
 }
-.card {
-  
-  border-radius: 15px;
+.card {  
+  border-radius: 14px;
 }
 .card-img-top {
   height: 13rem;
